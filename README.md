@@ -1,8 +1,8 @@
-#PIP
+#TchiowaPHP
 
-PIP is a tiny application framework built for people who use a LAMP stack. PIP aims to be as simple as possible to set up and use.
+TchiowaPHP ia a fork of PIP is a tiny application framework built for people who use a LAMP stack. TchiowaPHP aims to be as simple as possible to set up and use.
 
-Visit [http://gilbitron.github.com/PIP](http://gilbitron.github.com/PIP/) for more information and documentation.
+Visit [http://joaonzangoii.github.com/TchiowaPHP](http://joaonzangoii.github.com/TchiowaPHP/) for more information and documentation.
 
 ## Requirements
 
@@ -12,7 +12,7 @@ Visit [http://gilbitron.github.com/PIP](http://gilbitron.github.com/PIP/) for mo
 
 ## Installation
 
-* Download PIP and extract
+* Download TchiowaPHP and extract
 * Navigate to `application/config/config.php` and fill in your `base_url`
 * You are ready to rock! Point your browser to your `base_url` and hopefully see a welcome message.
 
@@ -22,6 +22,6 @@ Visit [http://gilbitron.github.com/PIP](http://gilbitron.github.com/PIP/) to see
 
 ## License
 
-PIP is released under the MIT license.
+TchiowaPHP is released under the MIT license.
 
-Want to say thanks? [Consider tipping me](https://www.gittip.com/gilbitron).
+Want to say thanks? [Consider tipping me]().
