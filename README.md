@@ -1,6 +1,6 @@
 #TchiowaPHP
 
-TchiowaPHP ia a fork of PIP is a tiny application framework built for people who use a LAMP stack. TchiowaPHP aims to be as simple as possible to set up and use.
+TchiowaPHP is a fork of PIP is a tiny application framework built for people who use a LAMP stack. TchiowaPHP aims to be as simple as possible to set up and use.
 
 Visit [http://joaonzangoii.github.com/TchiowaPHP](http://joaonzangoii.github.com/TchiowaPHP/) for more information and documentation.
 
