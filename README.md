@@ -18,7 +18,7 @@ Visit [http://joaonzangoii.github.com/TchiowaPHP](http://joaonzangoii.github.com
 
 ## Documentation
 
-Visit [http://gilbitron.github.com/PIP](http://gilbitron.github.com/PIP/) to see the documentation.
+Visit [http://joaonzangoii.github.com/TchiowaPHP](http://joaonzangoii.github.com/TchiowaPHP/) to see the documentation.
 
 ## License
 
